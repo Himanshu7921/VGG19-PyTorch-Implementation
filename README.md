@@ -69,8 +69,8 @@ The project focuses on replicating the architectural configurations established 
 
 I have documented the complete step-by-step implementation journey, mathematical breakdown of small receptive fields, spatial dimensionality reduction, and structural initialization experiments here:
 
-<!-- [My Journey of Implementing VGG19 From Scratch](https://www.google.com/search?q=YOUR_MEDIUM_BLOG_LINK_PLACEHOLDER) -->
-[My Journey of Implementing VGG19 From Scratch] [I'll add the link when the blog is published]
+[My Journey of Implementing VGG19 From Scratch](https://medium.com/@himanshusr451tehs/i-implemented-vgg-19-from-scratch-before-building-neural-style-transfer-7e903567ef23)
+<!-- [My Journey of Implementing VGG19 From Scratch] [I'll add the link when the blog is published] -->
 
 The repository contains:
 
